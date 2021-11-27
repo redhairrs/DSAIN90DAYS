@@ -1,1 +1,3 @@
 # DSAIN90DAYS
+##Day 1
+Learn Time Complexity........
